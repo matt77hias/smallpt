@@ -18,4 +18,4 @@ The Rosetta smallpt project
 
 1. Naive Path Tracer (with stackless radiance function for non-functional programming languages)
 2. Path Tracer with separate direct illumination calculation
-3. Multi-thread / multi-proces support
+3. Multi-thread / multi-process support
