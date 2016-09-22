@@ -14,6 +14,7 @@ Current languages:
 * [Python 2.7/3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)
 
 Iterations:
+
 1. Naive Path Tracer (with stackless radiance function for non-functional programming languages)
 2. Path Tracer with separate direct illumination calculation
 3. Multi-thread / multi-proces support
