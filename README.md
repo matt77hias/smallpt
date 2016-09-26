@@ -13,11 +13,11 @@ The Rosetta smallpt project
 * [Prolog](https://github.com/matt77hias/pl-smallpt)
 * [Python 2.7/3.5](https://github.com/matt77hias/py-smallpt)
 * [Python 2.7/3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)
+* [Racket](https://github.com/matt77hias/rkt-smallpt)
 
 **Coming soon**:
 
 * Lisp
-* Racket
 * Scheme
 
 **Iterations**:
