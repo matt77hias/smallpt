@@ -15,11 +15,6 @@ The Rosetta smallpt project
 * [Python 2.7/3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
 
-**Coming soon**:
-
-* Lisp
-* Scheme
-
 **Iterations**:
 
 1. Naive Path Tracer (with stackless radiance function for non-functional programming languages)
