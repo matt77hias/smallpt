@@ -1,6 +1,11 @@
 # smallpt
-The Rosetta smallpt project
 
+## About
+The Rosetta smallpt project: the same path tracer written in multiple languages
+
+<p align="center"><img src="https://github.com/matt77hias/smallpt/blob/master/res/image.png" ></p>
+
+## Features
 **Current languages**:
 
 * [C](https://github.com/matt77hias/c-smallpt)
