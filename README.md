@@ -20,12 +20,8 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 * [Python 2.7/3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
 
-**Iterations**:
-
-1. Naive Path Tracer (with stackless radiance function for non-functional programming languages)
-2. ~~Path Tracer with separate direct illumination calculation~~ (Does not make sense in case of the giant spheres in the default scene.)
-3. Multi-thread / multi-process support
-4. ...
+**Possible future languages**:
+* Haskell, J++, JavaScript, TypeScript
 
 ## Performance comparison
 
