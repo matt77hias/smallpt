@@ -29,7 +29,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 
 ## Performance comparison
 
-*System*:
+**System**:
 * OS: Windows 8.1 Pro 64 Bit
 * CPU: Intel i7-4770K @ 3,50 GHz (TB @ 3,9 GHz) with 8GB DDR3 @ 1600 MHz
 * GPU: NVIDIA GeForce GTX 970 with 4 GB GDDR5
