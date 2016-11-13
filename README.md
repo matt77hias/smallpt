@@ -29,6 +29,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 
 ## Performance comparison
 
+*System*:
 * OS: Windows 8.1 Pro 64 Bit
 * CPU: Intel i7-4770K @ 3,50 GHz (TB @ 3,9 GHz) with 8GB DDR3 @ 1600 MHz
 * GPU: NVIDIA GeForce GTX 970 with 4 GB GDDR5
@@ -36,7 +37,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 ### Singe process - Single threaded
 
 | Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
-|-------------------------------------------------------------------|
+|----------------------|----------------------|---------------------|
 | C                    | MSVC++ 14.0          | 00h 02m 11,16s      |
 | C++                  | MSVC++ 14.0          | 00h 01m 41,18s      |
 | C#                   | CLR 19.00            | 00h 04m 13,24s      |  
@@ -57,6 +58,6 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 ### Multi process - Multi threaded
 
 | Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
-|-------------------------------------------------------------------|
+|----------------------|----------------------|---------------------|
 | C++ + OpenMP         | MSVC++ 14.0          | 00h 00m 30,68s      |
 | CUDA                 | MSVC++ 14.0/NVCC 8.0 | 00h 00m 13,95s      |
