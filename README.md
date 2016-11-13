@@ -27,4 +27,36 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 3. Multi-thread / multi-process support
 4. ...
 
-## Performance comparison will be given.
+## Performance comparison
+
+* OS: Windows 8.1 Pro 64 Bit
+* CPU: Intel i7-4770K @ 3,50 GHz (TB @ 3,9 GHz) with 8GB DDR3 @ 1600 MHz
+* GPU: NVIDIA GeForce GTX 970 with 4 GB GDDR5
+
+### Singe process - Single threaded
+
+| Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
+|-------------------------------------------------------------------|
+| C                    | MSVC++ 14.0          | 00h 02m 11,16s      |
+| C++                  | MSVC++ 14.0          | 00h 01m 41,18s      |
+| C#                   | CLR 19.00            | 00h 04m 13,24s      |  
+| Erlang               | ERTS/BEAM 8.0        |                     |
+| Java                 | JVM 1.8              | 00h 01m 47,89s      |
+| J#                   | CLR 14.00            |                     |
+| Prolog               | SWI-Prolog 7.2.3     |                     |
+| Python 2.7           | CPython (Anaconda)   | 09h 58m 25,18s      |
+| Python 2.7           | CPython (Canopy)     |                     |
+| Python 2.7           | IronPython           |                     |
+| Python 3.5           | CPython (Anaconda)   |                     |
+| Python 3.5           | IronPython           |                     |
+| Python 2.7 + NumPy   | CPython (Anaconda)   |                     |
+| Python 2.7 + NumPy   | CPython (Canopy)     |                     |
+| Python 3.5 + NumPy   | CPython (Anaconda)   |                     |
+| Racket               | DrRacket 6.6         |                     |
+
+### Multi process - Multi threaded
+
+| Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
+|-------------------------------------------------------------------|
+| C++ + OpenMP         | MSVC++ 14.0          | 00h 00m 30,68s      |
+| CUDA                 | MSVC++ 14.0/NVCC 8.0 | 00h 00m 13,95s      |
