@@ -27,4 +27,4 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 3. Multi-thread / multi-process support
 4. ...
 
-Finally a performance comparison will be given.
+## Performance comparison will be given.
