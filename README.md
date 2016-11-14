@@ -47,7 +47,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 | Python 3.5           | CPython (Anaconda)   |                     |
 | Python 3.5           | IronPython           |                     |
 | Python 2.7 + NumPy   | CPython (Anaconda)   |                     |
-| Python 2.7 + NumPy   | CPython (Canopy)     |                     |
+| Python 2.7 + NumPy   | CPython (Canopy)     | 10h 43m 04,10s      |
 | Python 3.5 + NumPy   | CPython (Anaconda)   |                     |
 | Racket               | DrRacket 6.6         |                     |
 
