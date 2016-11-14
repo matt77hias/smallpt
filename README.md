@@ -42,7 +42,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 | J#                   | CLR 14.00            |                     |
 | Prolog               | SWI-Prolog 7.2.3     |                     |
 | Python 2.7           | CPython (Anaconda)   | 09h 58m 25,18s      |
-| Python 2.7           | CPython (Canopy)     |                     |
+| Python 2.7           | CPython (Canopy)     | 08h 35m 03,19s      |
 | Python 2.7           | IronPython           |                     |
 | Python 3.5           | CPython (Anaconda)   |                     |
 | Python 3.5           | IronPython           |                     |
