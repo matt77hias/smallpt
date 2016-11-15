@@ -30,6 +30,8 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 * CPU: Intel i7-4770K @ 3,50 GHz (TB @ 3,9 GHz) with 8GB DDR3 @ 1600 MHz
 * GPU: NVIDIA GeForce GTX 970 with 4 GB GDDR5
 
+**Note**: the ramdom number generators used differ between the languages and their implementations.
+
 ### Singe process - Single threaded
 
 | Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
