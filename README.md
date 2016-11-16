@@ -43,14 +43,14 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 | Java                 | JVM 1.8              | 00h 01m 47,89s      |
 | J#                   | CLR 14.00            |                     |
 | Prolog               | SWI-Prolog 7.2.3     |                     |
-| Python 2.7           | CPython (Anaconda)   | 09h 58m 25,18s      |
+| Python 2.7           | CPython (Anaconda)   |                     |
 | Python 2.7           | CPython (Canopy)     | 08h 35m 03,19s      |
 | Python 2.7           | IronPython           | 06h 32m 11,48s      |
 | Python 3.5           | CPython (Anaconda)   |                     |
 | Python 3.5           | IronPython           | 06h 36m 59,20s      |
-| Python 2.7 + NumPy   | CPython (Anaconda)   |                     |
+| Python 2.7 + NumPy   | CPython (Anaconda)   | 09h 58m 25,18s      |
 | Python 2.7 + NumPy   | CPython (Canopy)     | 10h 43m 04,10s      |
-| Python 3.5 + NumPy   | CPython (Anaconda)   |                     |
+| Python 3.5 + NumPy   | CPython (Anaconda)   | 10h 20m 46,47s      |
 | Racket               | DrRacket 6.6         |                     |
 
 ### Multi process - Multi threaded
