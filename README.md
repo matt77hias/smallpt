@@ -24,15 +24,16 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 * Haskell, J++, JavaScript, TypeScript, Matlab, etc.
 
 ## Performance comparison
+In order to give a very rough performance comparison, the wall clock time is measured of a single run to generate an image of resolution 512x512 using 64spp. All single process - single threads experiments output the current progression to standard output. All multi process - multi threaded experiments do not output the current progression to standard output (this can change in the future).
 
 **System**:
 * OS: Windows 8.1 Pro 64 Bit
 * CPU: Intel i7-4770K @ 3,50 GHz (TB @ 3,9 GHz) with 8GB DDR3 @ 1600 MHz
 * GPU: NVIDIA GeForce GTX 970 with 4 GB GDDR5
 
-**Note**: the ramdom number generators used differ between the languages and their implementations.
+**Note**: the ramdom number generators used, differ between the languages and their implementations.
 
-### Singe process - Single threaded
+### Single process - Single threaded
 
 | Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
 |----------------------|----------------------|---------------------|
