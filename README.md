@@ -41,7 +41,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages
 | C#                   | CLR 19.00            | 00h 04m 13,24s      |  
 | Erlang               | ERTS/BEAM 8.0        |                     |
 | Java                 | JVM 1.8              | 00h 01m 47,89s      |
-| J#                   | CLR 14.00            |                     |
+| J#                   | CLR 14.00            | 00h 06m 14,62s      |
 | Prolog               | SWI-Prolog 7.2.3     |                     |
 | Python 2.7           | CPython (Anaconda)   | 08h 24m 40,88s      |
 | Python 2.7           | CPython (Canopy)     | 08h 35m 03,19s      |
