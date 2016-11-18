@@ -59,4 +59,4 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
 |----------------------|----------------------|---------------------|
 | C++ + OpenMP         | MSVC++ 14.0          | 00h 00m 30,68s      |
-| CUDA                 | MSVC++ 14.0/NVCC 8.0 | 00h 00m 13,95s      |
+| CUDA                 | MSVC++ 14.0/NVCC 8.0 | 00h 00m 08,60s      |
