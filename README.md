@@ -37,7 +37,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 
 | Programming Language | Compiler/Interpreter | Wall clock (64 spp) |
 |----------------------|----------------------|---------------------|
-| C                    | MSVC++ 14.0          | 00h 02m 11,16s      |
+| C                    | MSVC++ 14.0          | 00h 02m 14,68s      |
 | C++                  | MSVC++ 14.0          | 00h 01m 41,18s      |
 | C#                   | CLR 19.00            | 00h 04m 13,24s      |  
 | Erlang               | ERTS/BEAM 8.0        | 01h 00m 36,28s      |
