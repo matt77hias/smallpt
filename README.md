@@ -40,7 +40,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | C                    | MSVC++ 14.0          | 00h 02m 14,68s      |
 | C++                  | MSVC++ 14.0          | 00h 01m 41,18s      |
 | C#                   | CLR 19.00            | 00h 04m 13,24s      |  
-| Erlang               | ERTS/BEAM 8.0        | 01h 00m 36,28s      |
+| Erlang               | ERTS/BEAM 8.0        | 00h 59m 45,30s      |
 | Java                 | JVM 1.8              | 00h 01m 47,89s      |
 | J#                   | CLR 14.00            | 00h 06m 14,62s      |
 | Prolog               | SWI-Prolog 7.2.3     | /                   |
