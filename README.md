@@ -53,7 +53,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | Python 2.7 + NumPy   | CPython (Anaconda)   | 09h 58m 25,18s      |
 | Python 2.7 + NumPy   | CPython (Canopy)     | 10h 43m 04,10s      |
 | Python 3.5 + NumPy   | CPython (Anaconda)   | 10h 20m 46,47s      |
-| Racket               | DrRacket 6.6         |                     |
+| Racket               | DrRacket 6.6         | 00h 13m 39,42s      |
 
 ### Multi process - Multi threaded
 
