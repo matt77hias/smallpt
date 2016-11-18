@@ -61,4 +61,4 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | C++ + OpenMP         | MSVC++ 14.0          | 00h 00m 30,68s      |
 | CUDA                 | MSVC++ 14.0/NVCC 8.0 | 00h 00m 08,60s      |
 
-<p align="center"><img src="https://github.com/matt77hias/smallpt/blob/master/res/comparison (low resolution).png" ></p>
+<p align="center"><img src="https://github.com/matt77hias/smallpt/blob/master/res/Comparison%20(low%20resolution).png" ></p>
