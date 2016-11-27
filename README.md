@@ -50,7 +50,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | C#                   | CLR 19.00            | 00h 04m 13,24s      |  
 | Erlang               | ERTS/BEAM 8.0        | 00h 59m 45,30s      |
 | Haskell              | GHC 8.0.1            | 00h 10m 35,55s      |
-| Haskell              | GHCi 8.0.1           |                     |
+| Haskell              | GHCi 8.0.1           | 02h 14m 54,00s      |
 | Java                 | JVM 1.8              | 00h 01m 47,89s      |
 | J#                   | CLR 14.00            | 00h 06m 14,62s      |
 | Prolog               | SWI-Prolog 7.2.3     | /                   |
