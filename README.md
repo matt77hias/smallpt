@@ -68,6 +68,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 
 | Programming Language                                                | Compiler/Interpreter     | Wall clock (64 spp) |
 |---------------------------------------------------------------------|--------------------------|---------------------|
+| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0              | 00h 00m 31,34s      |
 | [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 14.0              | 00h 00m 30,68s      |
 | [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 14.0/NVCC 8.0     | 00h 00m 08,60s      |
 
