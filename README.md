@@ -32,7 +32,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 (Currently I am not able to build J++ and P#/C#)
 
 ## Performance comparison
-In order to give a very rough performance comparison, the wall clock time is measured of a single run to generate an image of resolution 512x512 using 64spp. All single process - single threads experiments output the current progression to standard output. All multi process - multi threaded experiments do not output the current progression to standard output (this can change in the future).
+In order to give a very rough performance comparison, the wall clock time is measured of a single run to generate an image of resolution 1024x768 using 64spp. All single process - single threads experiments output the current progression to standard output. All multi process - multi threaded experiments do not output the current progression to standard output (this can change in the future).
 
 **System**:
 * OS: Windows 8.1 Pro 64 Bit
