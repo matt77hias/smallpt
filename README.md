@@ -12,7 +12,6 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 
 * [C](https://github.com/matt77hias/c-smallpt)
 * [C++](https://github.com/matt77hias/cpp-smallpt)
-* [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)
 * [C#](https://github.com/matt77hias/cs-smallpt)
 * [CUDA](https://github.com/matt77hias/cu-smallpt)
 * [Erlang](https://github.com/matt77hias/erl-smallpt)
