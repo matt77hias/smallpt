@@ -25,9 +25,10 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)
 * [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
+* [TypeScript](https://github.com/matt77hias/ts-smallpt)
 
 **Possible future languages**:
-* TypeScript, Cython, Matlab/Octave, etc.
+* Cython, Matlab/Octave, R5RS/R6RS, etc.
 
 (Currently I am not able to build J++ and P#/C#)
 
@@ -52,9 +53,9 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                | 00h 10m 35,55s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1               | 02h 14m 54,00s      |
 | [Java](https://github.com/matt77hias/java-smallpt)                  | JVM 1.8                  | 00h 01m 47,89s      |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Google Chrome            |                     |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Internet Explorer        |                     |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Mozilla Firefox          |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Chrome                   |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Explorer                 |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Firefox                  |                     |
 | [J#](https://github.com/matt77hias/jsl-smallpt)                     | CLR 14.00                | 00h 06m 14,62s      |
 | [Prolog](https://github.com/matt77hias/pl-smallpt)                  | SWI-Prolog 7.2.3         | /                   |
 | [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)| 08h 24m 40,88s      |
@@ -66,6 +67,9 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Canopy 1.5.2)   | 10h 43m 04,10s      |
 | [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)| 10h 20m 46,47s      |
 | [Racket](https://github.com/matt77hias/rkt-smallpt)                 | DrRacket 6.6             | 00h 49m 39,43s      |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | Chrome                   |                     |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | Explorer                 |                     |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | Firefox                  |                     |
 
 ### Multi process - Multi threaded
 
