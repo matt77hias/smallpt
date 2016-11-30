@@ -13,6 +13,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [C](https://github.com/matt77hias/c-smallpt)
 * [C++](https://github.com/matt77hias/cpp-smallpt)
 * [C#](https://github.com/matt77hias/cs-smallpt)
+* [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)
 * [CUDA](https://github.com/matt77hias/cu-smallpt)
 * [Erlang](https://github.com/matt77hias/erl-smallpt)
 * [Haskell](https://github.com/matt77hias/hs-smallpt)
@@ -49,6 +50,9 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 14.0              | 00h 02m 14,68s      |
 | [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0              | 00h 01m 41,18s      |
 | [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                | 00h 04m 13,24s      |  
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | Chrome                   |                     |
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | Explorer                 |                     |
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | Firefox                  |                     |
 | [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0            | 00h 59m 45,30s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                | 00h 10m 35,55s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1               | 02h 14m 54,00s      |
