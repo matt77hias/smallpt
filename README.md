@@ -17,6 +17,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [Erlang](https://github.com/matt77hias/erl-smallpt)
 * [Haskell](https://github.com/matt77hias/hs-smallpt)
 * [Java](https://github.com/matt77hias/java-smallpt)
+* [JavaScript](https://github.com/matt77hias/js-smallpt)
 * [J#](https://github.com/matt77hias/jsl-smallpt)
 * [Prolog](https://github.com/matt77hias/pl-smallpt)
 * [Python 2.7](https://github.com/matt77hias/py-smallpt)
@@ -26,7 +27,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
 
 **Possible future languages**:
-* JavaScript/TypeScript, Matlab/Octave, etc.
+* TypeScript, Matlab/Octave, etc.
 
 (Currently I am not able to build J++ and P#/C#)
 
@@ -51,6 +52,9 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                | 00h 10m 35,55s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1               | 02h 14m 54,00s      |
 | [Java](https://github.com/matt77hias/java-smallpt)                  | JVM 1.8                  | 00h 01m 47,89s      |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Google Chrome            |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Internet Explorer        |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Mozilla Firefox          |                     |
 | [J#](https://github.com/matt77hias/jsl-smallpt)                     | CLR 14.00                | 00h 06m 14,62s      |
 | [Prolog](https://github.com/matt77hias/pl-smallpt)                  | SWI-Prolog 7.2.3         | /                   |
 | [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)| 08h 24m 40,88s      |
