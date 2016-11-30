@@ -27,7 +27,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
 
 **Possible future languages**:
-* TypeScript, Matlab/Octave, etc.
+* TypeScript, Cython, Matlab/Octave, etc.
 
 (Currently I am not able to build J++ and P#/C#)
 
