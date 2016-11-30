@@ -29,7 +29,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [TypeScript](https://github.com/matt77hias/ts-smallpt)
 
 **Possible future languages**:
-* Cython, Matlab/Octave, R5RS/R6RS, etc.
+* Cython, Lua, F#, Fortran, Matlab/Octave, R5RS/R6RS, Lisp, etc.
 
 (Currently I am not able to build J++ and P#/C#)
 
