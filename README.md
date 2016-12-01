@@ -45,42 +45,42 @@ In order to give a very rough performance comparison, the wall clock time is mea
 
 ### Single process - Single threaded
 
-| Programming Language                                                | Compiler/Interpreter     | Wall clock (64 spp) |
-|---------------------------------------------------------------------|--------------------------|---------------------|
-| [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 14.0              | 00h 02m 14,68s      |
-| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0              | 00h 01m 41,18s      |
-| [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                | 00h 04m 13,24s      |  
-| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | Chrome                   |                     |
-| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | Explorer                 |                     |
-| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | Firefox                  |                     |
-| [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0            | 00h 59m 45,30s      |
-| [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                | 00h 10m 35,55s      |
-| [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1               | 02h 14m 54,00s      |
-| [Java](https://github.com/matt77hias/java-smallpt)                  | JVM 1.8                  | 00h 01m 47,89s      |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Chrome                   |                     |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Explorer                 |                     |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Firefox                  |                     |
-| [J#](https://github.com/matt77hias/jsl-smallpt)                     | CLR 14.00                | 00h 06m 14,62s      |
-| [Prolog](https://github.com/matt77hias/pl-smallpt)                  | SWI-Prolog 7.2.3         | /                   |
-| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)| 08h 24m 40,88s      |
-| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Canopy 1.5.2)   | 08h 35m 03,19s      |
-| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | IronPython 2.7.6         | 06h 32m 11,48s      |
-| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | PyPy 5.6.0               | 00h 20m 47,33s      |
-| [Python 3.5](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)| 09h 37m 05,13s      |
-| [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)| 09h 58m 25,18s      |
-| [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Canopy 1.5.2)   | 10h 43m 04,10s      |
-| [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)| 10h 20m 46,47s      |
-| [Racket](https://github.com/matt77hias/rkt-smallpt)                 | DrRacket 6.6             | 00h 49m 39,43s      |
-| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | Chrome                   |                     |
-| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | Explorer                 |                     |
-| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | Firefox                  |                     |
+| Programming Language                                                | Compiler/Interpreter         | Wall clock (64 spp) |
+|---------------------------------------------------------------------|------------------------------|---------------------|
+| [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 14.0                  | 00h 02m 14,68s      |
+| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0                  | 00h 01m 41,18s      |
+| [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                    | 00h 04m 13,24s      |  
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Chrome             |                     |
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Internet Explorer  |                     |
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Firefox            |                     |
+| [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0                | 00h 59m 45,30s      |
+| [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                    | 00h 10m 35,55s      |
+| [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1                   | 02h 14m 54,00s      |
+| [Java](https://github.com/matt77hias/java-smallpt)                  | JVM 1.8                      | 00h 01m 47,89s      |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Chrome                       |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Internet Explorer            |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Firefox                      |                     |
+| [J#](https://github.com/matt77hias/jsl-smallpt)                     | CLR 14.00                    | 00h 06m 14,62s      |
+| [Prolog](https://github.com/matt77hias/pl-smallpt)                  | SWI-Prolog 7.2.3             | /                   |
+| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)    | 08h 24m 40,88s      |
+| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Canopy 1.5.2)       | 08h 35m 03,19s      |
+| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | IronPython 2.7.6             | 06h 32m 11,48s      |
+| [Python 2.7](https://github.com/matt77hias/py-smallpt)              | PyPy 5.6.0                   | 00h 20m 47,33s      |
+| [Python 3.5](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)    | 09h 37m 05,13s      |
+| [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)    | 09h 58m 25,18s      |
+| [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Canopy 1.5.2)       | 10h 43m 04,10s      |
+| [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)    | 10h 20m 46,47s      |
+| [Racket](https://github.com/matt77hias/rkt-smallpt)                 | DrRacket 6.6                 | 00h 49m 39,43s      |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Chrome            |                     |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Internet Explorer |                     |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Firefox           |                     |
 
 ### Multi process - Multi threaded
 
-| Programming Language                                                | Compiler/Interpreter     | Wall clock (64 spp) |
-|---------------------------------------------------------------------|--------------------------|---------------------|
-| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0              | 00h 00m 31,34s      |
-| [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 14.0              | 00h 00m 30,68s      |
-| [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 14.0/NVCC 8.0     | 00h 00m 08,60s      |
+| Programming Language                                                | Compiler/Interpreter         | Wall clock (64 spp) |
+|---------------------------------------------------------------------|------------------------------|---------------------|
+| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0                  | 00h 00m 31,34s      |
+| [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 14.0                  | 00h 00m 30,68s      |
+| [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 14.0/NVCC 8.0         | 00h 00m 08,60s      |
 
 <p align="center"><img src="https://github.com/matt77hias/smallpt/blob/master/res/Comparison%20(low%20resolution).png" ></p>
