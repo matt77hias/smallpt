@@ -57,7 +57,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                    | 00h 10m 35,55s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1                   | 02h 14m 54,00s      |
 | [Java](https://github.com/matt77hias/java-smallpt)                  | JVM 1.8                      | 00h 01m 47,89s      |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Chrome                       |                     |
+| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Chrome                       | 00h 06m 27,63s      |
 | [JavaScript](https://github.com/matt77hias/js-smallpt)              | IE                           |                     |
 | [JavaScript](https://github.com/matt77hias/js-smallpt)              | Firefox                      |                     |
 | [J#](https://github.com/matt77hias/jsl-smallpt)                     | CLR 14.00                    | 00h 06m 14,62s      |
