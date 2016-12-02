@@ -50,7 +50,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 14.0                  | 00h 02m 14,68s      |
 | [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0                  | 00h 01m 41,18s      |
 | [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                    | 00h 04m 13,24s      |  
-| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Chrome             |                     |
+| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Chrome             | 00h 04m 19,63s      |
 | [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/IE                 |                     |
 | [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Firefox            |                     |
 | [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0                | 00h 59m 45,30s      |
