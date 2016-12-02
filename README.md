@@ -71,7 +71,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Canopy 1.5.2)       | 10h 43m 04,10s      |
 | [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)    | 10h 20m 46,47s      |
 | [Racket](https://github.com/matt77hias/rkt-smallpt)                 | DrRacket 6.6                 | 00h 49m 39,43s      |
-| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Chrome            |                     |
+| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Chrome            | 00h 08m 10,58s      |
 | [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/IE                |                     |
 | [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Firefox           |                     |
 
