@@ -5,7 +5,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 
 **Note**: I deliberately chose for the same software design for [all programming languages](https://github.com/matt77hias/smallpt) out of clarity and performance reasons (this can conflict with the nature of declarative/functional programming languages).
 
-<p align="center"><img src="https://github.com/matt77hias/smallpt/blob/master/res/image.png" ></p>
+<p align="center"><img src="res/image.png" ></p>
 
 ## Features
 **Current languages**:
@@ -83,4 +83,4 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 14.0                  | 00h 00m 30,68s      |
 | [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 14.0/NVCC 8.0         | 00h 00m 08,60s      |
 
-<p align="center"><img src="https://github.com/matt77hias/smallpt/blob/master/res/Comparison%20(low%20resolution).png" ></p>
+<p align="center"><img src="res/Comparison%20(low%20resolution).png" ></p>
