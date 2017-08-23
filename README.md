@@ -51,15 +51,11 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0                  | 00h 01m 41,18s      |
 | [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                    | 00h 04m 13,24s      |  
 | [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Chrome             | 00h 04m 19,63s      |
-| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/IE                 |                     |
-| [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Firefox            |                     |
 | [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0                | 00h 59m 45,30s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                    | 00h 10m 35,55s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHCi 8.0.1                   | 02h 14m 54,00s      |
 | [Java](https://github.com/matt77hias/java-smallpt)                  | JVM 1.8                      | 00h 01m 47,89s      |
 | [JavaScript](https://github.com/matt77hias/js-smallpt)              | Chrome                       | 00h 06m 27,63s      |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | IE                           |                     |
-| [JavaScript](https://github.com/matt77hias/js-smallpt)              | Firefox                      |                     |
 | [J#](https://github.com/matt77hias/jsl-smallpt)                     | CLR 14.00                    | 00h 06m 14,62s      |
 | [Prolog](https://github.com/matt77hias/pl-smallpt)                  | SWI-Prolog 7.2.3             | /                   |
 | [Python 2.7](https://github.com/matt77hias/py-smallpt)              | CPython (Anaconda 4.1.12)    | 08h 24m 40,88s      |
@@ -72,8 +68,6 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)   | CPython (Anaconda 4.1.12)    | 10h 20m 46,47s      |
 | [Racket](https://github.com/matt77hias/rkt-smallpt)                 | DrRacket 6.6                 | 00h 49m 39,43s      |
 | [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Chrome            | 00h 08m 10,58s      |
-| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/IE                |                     |
-| [TypeScript](https://github.com/matt77hias/ts-smallpt)              | TSC 2.0.10/Firefox           |                     |
 
 ### Multi process - Multi threaded
 
