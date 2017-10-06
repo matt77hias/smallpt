@@ -10,8 +10,8 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 ## Features
 **Current languages**:
 
-* [C](https://github.com/matt77hias/c-smallpt)
-* [C++](https://github.com/matt77hias/cpp-smallpt)
+* [C](https://github.com/matt77hias/c-smallpt): single threaded, multi threaded (OpenMP)
+* [C++](https://github.com/matt77hias/cpp-smallpt): single threaded, multi threaded (Windows Threads), multi threaded (OpenMP)
 * [C#](https://github.com/matt77hias/cs-smallpt)
 * [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)
 * [CUDA](https://github.com/matt77hias/cu-smallpt)
@@ -73,6 +73,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 
 | Programming Language                                                | Compiler/Interpreter         | Wall clock (64 spp) |
 |---------------------------------------------------------------------|------------------------------|---------------------|
+| [C + OpenMP](https://github.com/matt77hias/c-smallpt)               | MSVC++ 14.0                  | todo                |
 | [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 14.0                  | 00h 00m 31,34s      |
 | [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 14.0                  | 00h 00m 30,68s      |
 | [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 14.0/NVCC 8.0         | 00h 00m 08,60s      |
