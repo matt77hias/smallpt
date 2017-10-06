@@ -81,6 +81,6 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [C + OpenMP](https://github.com/matt77hias/c-smallpt)               | MSVC++ 15.0                  | 00h 00m 26.04s      |
 | [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.0                  | 00h 00m 29.93s      |
 | [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 15.0                  | 00h 00m 30.62s      |
-| [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 15.0/NVCC 9.0         | 00h 00m 08.60s      |
+| [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 15.0/NVCC 9.0         | 00h 00m 07.80s      |
 
 <p align="center"><img src="res/Comparison%20(low%20resolution).png" ></p>
