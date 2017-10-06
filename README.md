@@ -10,8 +10,13 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 ## Features
 **Current languages**:
 
-* [C](https://github.com/matt77hias/c-smallpt): single threaded, multi threaded (OpenMP)
-* [C++](https://github.com/matt77hias/cpp-smallpt): single threaded, multi threaded (Windows Threads), multi threaded (OpenMP)
+* [C](https://github.com/matt77hias/c-smallpt)
+  * single threaded
+  * multi threaded (OpenMP)
+* [C++](https://github.com/matt77hias/cpp-smallpt)
+  * single threaded
+  * multi threaded (Windows Threads)
+  * multi threaded (OpenMP))
 * [C#](https://github.com/matt77hias/cs-smallpt)
 * [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)
 * [CUDA](https://github.com/matt77hias/cu-smallpt)
