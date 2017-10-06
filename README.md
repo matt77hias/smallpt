@@ -53,7 +53,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | Programming Language                                                | Compiler/Interpreter         | Wall clock (64 spp) |
 |---------------------------------------------------------------------|------------------------------|---------------------|
 | [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 15.0                  | 00h 02m 05.51s      |
-| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.0                  | 00h 01m 41.18s      |
+| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.0                  | 00h 01m 40.76s      |
 | [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                    | 00h 04m 13.24s      |  
 | [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Chrome             | 00h 04m 19.63s      |
 | [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0                | 00h 59m 45.30s      |
