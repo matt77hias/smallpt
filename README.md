@@ -26,6 +26,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)
 * [CUDA](https://github.com/matt77hias/cu-smallpt)
 * [Erlang](https://github.com/matt77hias/erl-smallpt)
+* [GLSL](https://www.shadertoy.com/view/MlcczX)
 * [Haskell](https://github.com/matt77hias/hs-smallpt)
 * [Java](https://github.com/matt77hias/java-smallpt)
 * [JavaScript](https://github.com/matt77hias/js-smallpt)
