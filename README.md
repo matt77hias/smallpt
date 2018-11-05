@@ -40,7 +40,7 @@ The Rosetta smallpt project: the same path tracer written in multiple languages.
 * [TypeScript](https://github.com/matt77hias/ts-smallpt)
 
 **Possible future languages**:
-* Cython, Lua, F#, Fortran, Matlab/Octave, R5RS/R6RS, Lisp, etc.
+* Constexpr C++, Julia, Cython, Lua, F#, Fortran, Matlab/Octave, R5RS/R6RS, Lisp, etc.
 
 (Currently I am not able to build J++ and P#/C#)
 
@@ -52,7 +52,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 * CPU: Intel i7-4770K @ 3,50 GHz (TB @ 3,9 GHz) with 8GB DDR3 @ 1600 MHz
 * GPU: NVIDIA GeForce GTX 970 with 4 GB GDDR5
 
-**Note**: the ramdom number generators used, differ between the languages and their implementations. It makes no sense to use the same random number generator in all implementations (i.e. C++ vs CUDA) and would introduce a huge burden to explicitly pass the state in languages such as Prolog.
+**Note**: the random number generators used, differ between the languages and their implementations. It makes no sense to use the same random number generator in all implementations (i.e. C++ vs CUDA) and would introduce a huge burden to explicitly pass the state in languages such as Prolog.
 
 ### Single process - Single threaded
 
