@@ -60,9 +60,9 @@ In order to give a very rough performance comparison, the wall clock time is mea
 
 | Programming Language                                                | Compiler/Interpreter         | Wall clock (64 spp) |
 |---------------------------------------------------------------------|------------------------------|---------------------|
-| [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 15.0                  | 00h 02m 05.51s      |
-| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.0                  | 00h 01m 40.76s      |
-| [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                    | 00h 01m 30.56s      |  
+| [C](https://github.com/matt77hias/c-smallpt)                        | MSVC++ 15.5.9                | 00h 02m 05.51s      |
+| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.5.9                | 00h 01m 40.76s      |
+| [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 4.6.1055.0               | 00h 01m 30.56s      |  
 | [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)        | CC 1.11.1/Chrome             | 00h 04m 19.63s      |
 | [Erlang](https://github.com/matt77hias/erl-smallpt)                 | ERTS/BEAM 8.0                | 00h 59m 45.30s      |
 | [Haskell](https://github.com/matt77hias/hs-smallpt)                 | GHC 8.0.1                    | 00h 10m 35.55s      |
@@ -86,10 +86,10 @@ In order to give a very rough performance comparison, the wall clock time is mea
 
 | Programming Language                                                | Compiler/Interpreter         | Wall clock (64 spp) |
 |---------------------------------------------------------------------|------------------------------|---------------------|
-| [C + OpenMP](https://github.com/matt77hias/c-smallpt)               | MSVC++ 15.0                  | 00h 00m 26.04s      |
-| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.0                  | 00h 00m 29.93s      |
-| [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 15.0                  | 00h 00m 30.62s      |
-| [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 19.00                    | 00h 00m 24.16s      | 
+| [C + OpenMP](https://github.com/matt77hias/c-smallpt)               | MSVC++ 15.5.9                | 00h 00m 26.04s      |
+| [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.5.9                | 00h 00m 29.93s      |
+| [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 15.5.9                | 00h 00m 30.62s      |
+| [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 4.6.1055.0               | 00h 00m 24.16s      | 
 | [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 15.0/NVCC 9.0         | 00h 00m 07.80s      |
 
 ### Panorma (old version)
