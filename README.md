@@ -23,6 +23,8 @@ The Rosetta smallpt project: the same path tracer (modifications of Kevin Baeson
   * multi threaded (Windows Threads)
   * multi threaded (OpenMP)
 * [C#](https://github.com/matt77hias/cs-smallpt)
+  * single threaded
+  * multi threaded
 * [CoffeeScript](https://github.com/matt77hias/coffee-smallpt)
 * [CUDA](https://github.com/matt77hias/cu-smallpt)
 * [Erlang](https://github.com/matt77hias/erl-smallpt)
