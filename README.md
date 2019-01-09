@@ -90,7 +90,7 @@ In order to give a very rough performance comparison, the wall clock time is mea
 | [C++](https://github.com/matt77hias/cpp-smallpt)                    | MSVC++ 15.5.9                | 00h 00m 16.71s      |
 | [C++ + OpenMP](https://github.com/matt77hias/cpp-smallpt)           | MSVC++ 15.5.9                | 00h 00m 25.97s      |
 | [C#](https://github.com/matt77hias/cs-smallpt)                      | CLR 4.6.1055.0               | 00h 00m 24.16s      | 
-| [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 15.5.9/NVCC 9.2       | 00h 00m 07.80s      |
+| [CUDA](https://github.com/matt77hias/cu-smallpt)                    | MSVC++ 15.5.9/NVCC 9.2       | 00h 00m 07.89s      |
 
 ### Panorma (old version)
 <p align="center"><img src="res/Comparison%20(low%20resolution).png" ></p>
