@@ -42,7 +42,7 @@ The Rosetta smallpt project: the same path tracer (modifications of Kevin Baeson
 * [TypeScript](https://github.com/matt77hias/ts-smallpt)
 
 **Possible future languages**:
-* Constexpr C++, Julia, Cython, Lua, F#, Fortran, Matlab/Octave, R5RS/R6RS, Lisp, etc.
+* Constexpr C++, Julia, Rust, Zig, Go, etc.
 
 (Currently I am not able to build J++ and P#/C#)
 
