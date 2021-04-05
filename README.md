@@ -41,11 +41,6 @@ The Rosetta smallpt project: the same path tracer (modifications of Kevin Baeson
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
 * [TypeScript](https://github.com/matt77hias/ts-smallpt)
 
-**Possible future languages**:
-* Constexpr C++, Julia, Rust, Zig, Go, etc.
-
-(Currently I am not able to build J++ and P#/C#)
-
 ## Performance comparison
 In order to give a very rough performance comparison, the wall clock time is measured of a single run to generate an image of resolution 1024x768 using 64spp. All single process - single threads experiments output the current progression to standard output. All multi process - multi threaded experiments do not output the current progression to standard output (this can change in the future).
 
