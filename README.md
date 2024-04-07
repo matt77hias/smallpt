@@ -34,10 +34,13 @@ The Rosetta smallpt project: the same path tracer (modifications of Kevin Baeson
 * [JavaScript](https://github.com/matt77hias/js-smallpt)
 * [J#](https://github.com/matt77hias/jsl-smallpt)
 * [Prolog](https://github.com/matt77hias/pl-smallpt)
-* [Python 2.7](https://github.com/matt77hias/py-smallpt)
-* [Python 3.5](https://github.com/matt77hias/py-smallpt)
-* [Python 2.7 + NumPy](https://github.com/matt77hias/numpy-smallpt)
-* [Python 3.5 + NumPy](https://github.com/matt77hias/numpy-smallpt)
+* Python 2
+  * [Python](https://github.com/matt77hias/py-smallpt)
+  * [Python + NumPy](https://github.com/matt77hias/numpy-smallpt)
+* Python 3
+  * [Python](https://github.com/matt77hias/py-smallpt)
+  * [Python + NumPy](https://github.com/matt77hias/numpy-smallpt)
+  * [Python + Taichi](https://github.com/burhanuddin6/accelerated_small_pt/tree/rand_solved)
 * [Racket](https://github.com/matt77hias/rkt-smallpt)
 * [TypeScript](https://github.com/matt77hias/ts-smallpt)
 
